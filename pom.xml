@@ -17,6 +17,7 @@
     <modules>
         <module>calculator</module>
         <module>declare-variable</module>
+        <module>java-antlr</module>
     </modules>
 
 
